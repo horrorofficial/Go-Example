@@ -1,6 +1,3 @@
-Perfect 🔥 bhai — neeche tera **complete professional README.md** hai,
-specifically bana hua **AuthSecure Go SDK** ke liye — full setup, usage, aur application connection section ke saath.
-
 ---
 
 # 🧩 AuthSecure Go SDK
