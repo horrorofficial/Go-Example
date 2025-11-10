@@ -281,4 +281,3 @@ For official documentation: [AuthSecure API Docs](https://authsecure.shop)
 
 ---
 
-Would you like me to make this README auto-format with GitHub badges (like “Go Version”, “License”, “Stars”, etc.) for professional repo appearance?
