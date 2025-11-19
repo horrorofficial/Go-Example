@@ -15,7 +15,7 @@ import (
 	"strings"
 )
 
-const baseURL = "https://www.authsecure.shop/post/api.php"
+const baseURL = "https://www.horrorgamingkeyauth.shop/post/api.php"
 
 // Core Structs
 type AppInfo struct {
@@ -234,3 +234,4 @@ func printUserInfo(user *UserInfo) {
 		fmt.Printf(" → %s | Expiry: %d | Left: %d\n", sub.Subscription, sub.Expiry, sub.TimeLeft)
 	}
 }
+
